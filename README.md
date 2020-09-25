@@ -1,4 +1,1 @@
-# Feature-Selection-techniques
-
-Source : https://www.youtube.com/watch?v=EqLBAmtKMnQ
-
+# Feature-Engineering-Live-sessions
